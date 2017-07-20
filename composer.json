@@ -23,13 +23,38 @@
     "monolith/routing": "dev-master",
     "monolith/routing-component": "dev-master"
   },
-  "autoload": {
-    "psr-4": {
-      "Monolith\\RoutingComponent\\": "src/"
-    }
-  },
   "config": {
     "sort-packages": true
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-component-framework.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-dependency-injection.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-collections.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-http.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-routing.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-routing-component.git"
+    },
+    {
+      "type": "vcs",
+      "url":  "git@github.com:mitchellvanw/monolith-error-handling.git"
+    }
+  ]
 }

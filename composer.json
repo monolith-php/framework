@@ -20,10 +20,12 @@
   "require": {
     "php": "^7.1",
     "monolith/collections": "dev-master",
+    "monolith/configuration": "dev-master",
     "monolith/component-loading": "dev-master",
     "monolith/dependency-injection": "dev-master",
     "monolith/error-handling": "dev-master",
     "monolith/http": "dev-master",
+    "monolith/relational-database": "dev-master",
     "monolith/web-routing": "dev-master",
     "monolith/web-routing-component": "dev-master"
   },

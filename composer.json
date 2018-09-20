@@ -1,7 +1,6 @@
 {
   "name": "monolith/framework",
-  "description": "Monolith: Framework",
-  "license": "MIT",
+  "description": "Core component dependencies for the Monolith framework.",
   "keywords": [
     "monolith",
     "framework"
@@ -9,24 +8,24 @@
   "homepage": "https://www.getmonolith.com",
   "authors": [
     {
-      "name": "Mitchell van Wijngaarden",
-      "email": "mitchell@kooding.nl"
-    },
-    {
       "name": "Shawn McCool",
       "email": "shawn@heybigname.com"
+    },
+    {
+      "name": "Mitchell van Wijngaarden",
+      "email": "mitchell@kooding.nl"
     }
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "dev-master",
+    "monolith/collections": "^1.0",
     "monolith/configuration": "dev-master",
     "monolith/component-loading": "dev-master",
     "monolith/dependency-injection": "dev-master",
     "monolith/error-handling": "dev-master",
-    "monolith/http": "dev-master",
+    "monolith/http": "^1.0",
     "monolith/relational-database": "dev-master",
-    "monolith/web-routing-component": "2.0"
+    "monolith/web-routing-component": "^2.0"
   },
   "config": {
     "sort-packages": true

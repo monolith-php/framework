@@ -5,7 +5,6 @@
     "monolith",
     "framework"
   ],
-  "homepage": "https://www.getmonolith.com",
   "authors": [
     {
       "name": "Shawn McCool",
@@ -18,14 +17,14 @@
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "^1.0",
-    "monolith/configuration": "dev-master",
-    "monolith/component-loading": "dev-master",
-    "monolith/dependency-injection": "dev-master",
-    "monolith/error-handling": "dev-master",
-    "monolith/http": "^1.0",
-    "monolith/relational-database": "dev-master",
-    "monolith/web-routing-component": "^2.0"
+    "monolith/collections": "^1",
+    "monolith/configuration": "^1",
+    "monolith/component-loading": "^1",
+    "monolith/dependency-injection": "^1",
+    "monolith/error-handling": "^1",
+    "monolith/http": "^1",
+    "monolith/relational-database": "^1",
+    "monolith/web-routing": "^3"
   },
   "config": {
     "sort-packages": true

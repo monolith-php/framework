@@ -18,13 +18,13 @@
   "require": {
     "php": "^7.1",
     "monolith/collections": "^1",
+    "monolith/component-bootstrapping": "^2",
     "monolith/configuration": "^1",
-    "monolith/component-loading": "^1",
     "monolith/dependency-injection": "^1",
     "monolith/error-handling": "^1",
     "monolith/http": "^2",
     "monolith/relational-database": "^1",
-    "monolith/web-routing": "^4"
+    "monolith/web-routing": "^4",
   },
   "config": {
     "sort-packages": true

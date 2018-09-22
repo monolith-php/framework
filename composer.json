@@ -24,7 +24,7 @@
     "monolith/error-handling": "^1",
     "monolith/http": "^3",
     "monolith/relational-database": "^1",
-    "monolith/web-routing": "^8"
+    "monolith/web-routing": "^9"
   },
   "config": {
     "sort-packages": true

@@ -17,14 +17,14 @@
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "^1",
-    "monolith/component-bootstrapping": "^2",
-    "monolith/configuration": "^1",
-    "monolith/dependency-injection": "^1",
-    "monolith/error-handling": "^1",
-    "monolith/http": "^3",
-    "monolith/relational-database": "^1",
-    "monolith/web-routing": "^9"
+    "monolith/collections": "^2",
+    "monolith/component-bootstrapping": "^3",
+    "monolith/configuration": "^2",
+    "monolith/dependency-injection": "^2",
+    "monolith/error-handling": "^2",
+    "monolith/http": "^4",
+    "monolith/relational-database": "^2",
+    "monolith/web-routing": "^10"
   },
   "config": {
     "sort-packages": true

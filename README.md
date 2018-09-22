@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.26**
+**version: 5.27**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -27,35 +27,35 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
 
-# Collections 1.8
+# Collections 2.0
 
 some basic info about collections
 
-# Component Bootstrapping 2.2
+# Component Bootstrapping 3.0
 
 information
 
-# Configuration 1.2
+# Configuration 2.0
 
 uses php dot env
 
-# Dependency Injection 1.2
+# Dependency Injection 2.0
 
 basic di container
 
-# Error Handling 1.2
+# Error Handling 2.0
 
 information
 
-# HTTP 3.1
+# HTTP 4.0
 
 basic info
 
-# Relational Database 1.2
+# Relational Database 2.0
 
 basic info
 
-# Web Routing 9.1
+# Web Routing 10.0
 
 basic info
 

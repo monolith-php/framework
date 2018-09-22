@@ -7,7 +7,7 @@ This is in-development and is not likely to be ever prepared for mass consumptio
 ## Goals
 
 1. idiomatic language usage
-    1. allows static-analysis with IDE extension
+    1. allows static-analysis without IDE extension or helpers
 2. no compromise for tradition
     1. discovery is part of the process
     2. integration of established tools / standards generally avoided

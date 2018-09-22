@@ -22,7 +22,7 @@
     "monolith/configuration": "^1",
     "monolith/dependency-injection": "^1",
     "monolith/error-handling": "^1",
-    "monolith/http": "^2",
+    "monolith/http": "^3",
     "monolith/relational-database": "^1",
     "monolith/web-routing": "^8"
   },

@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.16**
+**version: 5.17**
 
 This is in-development and is not likely to be ever prepared for mass consumption.
 

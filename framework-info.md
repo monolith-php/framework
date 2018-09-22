@@ -11,6 +11,7 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 2. no compromise for tradition
     1. discovery is part of the process
     2. integration of established tools / standards generally avoided
+        1. standards and conventions are good for integration but they're not good for questioning what you know and questioning how things are usually done.
 3. grown like a garden
     1. naive implementations are designed first
     2. algorithms become more complex only when pain points are experienced

@@ -1,8 +1,8 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.19**
+**version: 5.20**
 
-This is in-development and is not likely to be ever prepared for mass consumption.
+This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
 ## Goals
 

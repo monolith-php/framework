@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.22**
+**version: 5.23**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -17,7 +17,10 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
     3. solve problems with the simplest implementation possible
 4. can become feature-complete
     1. lack of ambition to solve all problems
-    2. components are open for extension, closed for modification   
+    2. components are open for extension, closed for modification
+5. smallest possible user-land api exposure
+    1. final classes by default
+    2. strong pressure to avoid inheritance
 
 ## Installation
 

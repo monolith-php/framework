@@ -18,9 +18,9 @@
   "require": {
     "php": "^7.1",
     "monolith/collections": "^2",
-    "monolith/component-bootstrapping": "^3",
+    "monolith/component-bootstrapping": "^4",
     "monolith/configuration": "^2",
-    "monolith/dependency-injection": "^3",
+    "monolith/dependency-injection": "^4",
     "monolith/error-handling": "^2",
     "monolith/http": "^4",
     "monolith/relational-database": "^2",

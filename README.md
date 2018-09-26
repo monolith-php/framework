@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.30**
+**version: 5.31**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -31,7 +31,7 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 some basic info about collections
 
-# Component Bootstrapping 3.0
+# Component Bootstrapping 4.0
 
 information
 
@@ -39,7 +39,7 @@ information
 
 uses php dot env
 
-# Dependency Injection 3.0
+# Dependency Injection 4.0
 
 basic di container
 

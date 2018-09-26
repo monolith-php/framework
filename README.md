@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.35**
+**version: 5.36**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -43,7 +43,7 @@ uses php dot env
 
 basic di container
 
-# Error Handling 2.2
+# Error Handling 2.3
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 

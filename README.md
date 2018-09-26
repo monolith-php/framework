@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.37**
+**version: 5.38**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -31,7 +31,7 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 some basic info about collections
 
-# Component Bootstrapping 4.2
+# Component Bootstrapping 4.3
 
 information
 

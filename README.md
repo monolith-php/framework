@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.47**
+**version: 5.48**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -35,7 +35,7 @@ some basic info about collections
 
 information
 
-# Configuration 2.6
+# Configuration 2.7
 
 uses php dot env
 

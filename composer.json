@@ -15,7 +15,7 @@
     "php": "^7.1",
     "monolith/collections": "2.1",
     "monolith/component-bootstrapping": "4.3",
-    "monolith/configuration": "2.3",
+    "monolith/configuration": "2.4",
     "monolith/dependency-injection": "4.1",
     "monolith/error-handling": "2.3",
     "monolith/http": "4.3",

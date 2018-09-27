@@ -16,10 +16,10 @@
     "monolith/collections": "2.1",
     "monolith/component-bootstrapping": "4.3",
     "monolith/configuration": "2.7",
-    "monolith/dependency-injection": "4.1",
+    "monolith/dependency-injection": "4.2",
     "monolith/error-handling": "2.3",
     "monolith/http": "4.3",
-    "monolith/relational-database": "4.0",
+    "monolith/relational-database": "5.0",
     "monolith/web-routing": "11.2"
   },
   "config": {

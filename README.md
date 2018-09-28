@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.54**
+**version: 5.55**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -39,7 +39,7 @@ information
 
 uses php dot env
 
-# Dependency Injection 4.2
+# Dependency Injection 5.0
 
 basic di container
 

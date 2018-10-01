@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.55**
+**version: 5.56**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -39,7 +39,7 @@ information
 
 uses php dot env
 
-# Dependency Injection 5.0
+# Dependency Injection 5.10
 
 basic di container
 
@@ -53,7 +53,7 @@ basic di container
 # Relational Database 5.0
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Web Routing 11.2
+# Web Routing 11.3
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 

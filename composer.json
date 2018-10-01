@@ -19,7 +19,7 @@
     "monolith/dependency-injection": "5.10",
     "monolith/error-handling": "2.3",
     "monolith/http": "4.3",
-    "monolith/relational-database": "5.0",
+    "monolith/relational-database": "5.1",
     "monolith/web-routing": "11.3"
   },
   "config": {

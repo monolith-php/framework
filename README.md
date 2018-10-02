@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.57**
+**version: 5.58**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,7 +26,6 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-
 # Collections 2.1
 
 some basic info about collections
@@ -47,7 +46,7 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 4.3
+# HTTP 4.4
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
 # Relational Database 5.1
@@ -57,3 +56,6 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
+# Web Sessions 
+
+not yet secured, consider hazardous

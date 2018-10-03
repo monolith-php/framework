@@ -16,7 +16,7 @@
     "monolith/collections": "2.1",
     "monolith/component-bootstrapping": "4.3",
     "monolith/configuration": "2.7",
-    "monolith/dependency-injection": "5.10",
+    "monolith/dependency-injection": "5.11",
     "monolith/error-handling": "2.3",
     "monolith/http": "4.4",
     "monolith/relational-database": "5.1",

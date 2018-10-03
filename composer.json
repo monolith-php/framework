@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "2.1",
+    "monolith/collections": "2.2",
     "monolith/component-bootstrapping": "4.3",
     "monolith/configuration": "2.7",
     "monolith/dependency-injection": "5.11",
@@ -21,7 +21,7 @@
     "monolith/http": "4.4",
     "monolith/relational-database": "5.1",
     "monolith/web-routing": "11.3",
-    "monolith/web-sessions": ""
+    "monolith/web-sessions": "1.0"
   },
   "config": {
     "sort-packages": true

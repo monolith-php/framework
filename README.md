@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.59**
+**version: 5.60**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,7 +26,7 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 2.1
+# Collections 2.2
 
 some basic info about collections
 
@@ -56,6 +56,6 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 
+# Web Sessions 1.0
 
 not yet secured, consider hazardous

@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.60**
+**version: 5.61**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -56,6 +56,6 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 1.0
+# Web Sessions 1.1
 
 not yet secured, consider hazardous

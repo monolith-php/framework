@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.63**
+**version: 5.64**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 

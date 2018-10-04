@@ -22,7 +22,7 @@
     "monolith/relational-database": "5.1",
     "monolith/web-routing": "11.3",
     "monolith/web-sessions": "1.1",
-    "monolith/twig-templating": "1.0"
+    "monolith/twig-html-templating": "1.0"
   },
   "config": {
     "sort-packages": true

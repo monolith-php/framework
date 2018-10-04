@@ -18,7 +18,7 @@
     "monolith/configuration": "2.7",
     "monolith/dependency-injection": "5.11",
     "monolith/error-handling": "2.3",
-    "monolith/http": "4.5",
+    "monolith/http": "5.1",
     "monolith/relational-database": "5.1",
     "monolith/web-routing": "11.3",
     "monolith/web-sessions": "1.1",

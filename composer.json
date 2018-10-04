@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "2.2",
+    "monolith/collections": "3.0",
     "monolith/component-bootstrapping": "4.3",
     "monolith/configuration": "2.7",
     "monolith/dependency-injection": "5.11",

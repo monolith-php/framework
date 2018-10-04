@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.69**
+**version: 5.70**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,7 +26,7 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 2.2
+# Collections 3.0
 
 some basic info about collections
 

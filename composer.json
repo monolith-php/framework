@@ -13,16 +13,16 @@
   ],
   "require": {
     "php": "^7.1",
-    "monolith/collections": "3.1",
-    "monolith/component-bootstrapping": "4.5",
-    "monolith/configuration": "2.8",
-    "monolith/dependency-injection": "5.13",
-    "monolith/error-handling": "2.5",
-    "monolith/http": "5.3",
-    "monolith/relational-database": "5.2",
-    "monolith/web-routing": "11.5",
-    "monolith/web-sessions": "2.1",
-    "monolith/twig-html-templating": "1.4"
+    "monolith/collections": "3",
+    "monolith/component-bootstrapping": "4",
+    "monolith/configuration": "2",
+    "monolith/dependency-injection": "5",
+    "monolith/error-handling": "2",
+    "monolith/http": "5",
+    "monolith/relational-database": "5",
+    "monolith/web-routing": "11",
+    "monolith/web-sessions": "2",
+    "monolith/twig-html-templating": "1"
   },
   "config": {
     "sort-packages": true

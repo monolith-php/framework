@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.75**
+**version: 5.76**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -56,7 +56,7 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 2.1
+# Web Sessions 3.0
 
 not yet secured, consider hazardous
 # Twig HTML Templating 1.8

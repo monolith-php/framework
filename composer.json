@@ -21,7 +21,7 @@
     "monolith/http": "^5",
     "monolith/relational-database": "^5",
     "monolith/web-routing": "^11",
-    "monolith/web-sessions": "^2",
+    "monolith/web-sessions": "^3",
     "monolith/twig-html-templating": "^1",
     "monolith/web-forms": "^0"
   },

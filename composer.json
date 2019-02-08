@@ -18,7 +18,7 @@
     "monolith/configuration": "^2",
     "monolith/dependency-injection": "^5",
     "monolith/error-handling": "^2",
-    "monolith/http": "^6",
+    "monolith/http": "^7",
     "monolith/relational-database": "^5",
     "monolith/web-routing": "^12",
     "monolith/web-sessions": "^4",

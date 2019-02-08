@@ -18,10 +18,10 @@
     "monolith/configuration": "^2",
     "monolith/dependency-injection": "^5",
     "monolith/error-handling": "^2",
-    "monolith/http": "^7",
+    "monolith/http": "^8",
     "monolith/relational-database": "^5",
-    "monolith/web-routing": "^12",
-    "monolith/web-sessions": "^5",
+    "monolith/web-routing": "^13",
+    "monolith/web-sessions": "^6",
     "monolith/twig-html-templating": "^3",
     "monolith/web-forms": "^0"
   },

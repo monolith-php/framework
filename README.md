@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.86**
+**version: 5.87**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -46,13 +46,13 @@ basic di container
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 8.0
+# HTTP 8.1
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
 # Relational Database 5.3
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Web Routing 13.0
+# Web Routing 14.0
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 

@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.90**
+**version: 5.91**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -59,7 +59,7 @@ basic di container
 ## Todo
 
 Remove concept of "Controllers" and other hard-wiring from the Route definitions and replace with parameters. This will allow for vastly improved extensibility.
-# Web Sessions 8.0
+# Web Sessions 9.0
 
 not yet secured, consider hazardous
 # Twig HTML Templating 3.1

@@ -20,8 +20,8 @@
     "monolith/error-handling": "^2",
     "monolith/http": "^8",
     "monolith/relational-database": "^5",
-    "monolith/web-routing": "^17",
-    "monolith/web-sessions": "^11",
+    "monolith/web-routing": "^18",
+    "monolith/web-sessions": "^12",
     "monolith/twig-html-templating": "^3",
     "monolith/web-forms": "^0"
   },

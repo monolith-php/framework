@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.94**
+**version: 5.95**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,43 +26,52 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 3.6
+# Collections 5.0
 
 some basic info about collections
 
-# Component Bootstrapping 4.5
+# Component Bootstrapping 5.0
 
 information
 
-# Configuration 2.11
+# Configuration 3.0
 
 uses php dot env
 
-# Dependency Injection 5.13
+# Dependency Injection 6.0
 
 basic di container
 
-# Error Handling 2.8
+# Error Handling 3.0
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 8.1
+# HTTP 9.0
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 5.3
+# Relational Database 6.0
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Web Routing 18.0
+# Message Serialization 1.0
+
+[![Build Status](https://travis-ci.org/monolith-php/message-serialization.svg?branch=master)](https://travis-ci.org/monolith-php/message-serialization)
+# Event Dispatcher 1.0
+
+[![Build Status](https://travis-ci.org/monolith-php/event-dispatcher.svg?branch=master)](https://travis-ci.org/monolith-php/event-dispatcher)
+# Command Bus 1.0
+
+[![Build Status](https://travis-ci.org/monolith-php/command-bus.svg?branch=master)](https://travis-ci.org/monolith-php/command-bus)
+# Web Routing 19.0
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 12.0
+# Web Sessions 13.0
 
 not yet secured, consider hazardous
-# Twig HTML Templating 3.1
+# Twig HTML Templating 4.0
 
 
-# Web Forms 0.8
+# Web Forms 1.0
 
 form state management / validation model
 

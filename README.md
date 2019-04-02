@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.96**
+**version: 5.97**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -68,7 +68,7 @@ basic di container
 # Web Sessions 13.1
 
 not yet secured, consider hazardous
-# Twig HTML Templating 4.2
+# Twig HTML Templating 4.3
 
 
 # Web Forms 1.0

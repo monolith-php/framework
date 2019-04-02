@@ -21,12 +21,11 @@
     "monolith/http": "^9",
     "monolith/relational-database": "^6",
     "monolith/message-serialization": "^1",
-    "monolith/event-dispatcher": "^1",
+    "monolith/event-dispatch": "^1",
     "monolith/command-bus": "^1",
     "monolith/web-routing": "^19",
     "monolith/web-sessions": "^13",
-    "monolith/twig-html-templating": "^4",
-    "monolith/web-forms": "^1"
+    "monolith/twig-html-templating": "^4"
   },
   "config": {
     "sort-packages": true

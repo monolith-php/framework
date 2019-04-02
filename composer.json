@@ -25,7 +25,8 @@
     "monolith/command-bus": "^1",
     "monolith/web-routing": "^19",
     "monolith/web-sessions": "^13",
-    "monolith/twig-html-templating": "^4"
+    "monolith/twig-html-templating": "^4",
+    "monolith/web-forms": "^1"
   },
   "config": {
     "sort-packages": true

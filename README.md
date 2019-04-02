@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.95**
+**version: 5.96**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,49 +26,49 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 5.0
+# Collections 5.2
 
 some basic info about collections
 
-# Component Bootstrapping 5.0
+# Component Bootstrapping 5.1
 
 information
 
-# Configuration 3.0
+# Configuration 3.1
 
 uses php dot env
 
-# Dependency Injection 6.0
+# Dependency Injection 6.1
 
 basic di container
 
-# Error Handling 3.0
+# Error Handling 3.1
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 9.0
+# HTTP 9.1
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 6.0
+# Relational Database 6.1
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Message Serialization 1.0
+# Message Serialization 1.1
 
 [![Build Status](https://travis-ci.org/monolith-php/message-serialization.svg?branch=master)](https://travis-ci.org/monolith-php/message-serialization)
-# Event Dispatcher 1.0
+# Event Dispatcher 1.2
 
 [![Build Status](https://travis-ci.org/monolith-php/event-dispatcher.svg?branch=master)](https://travis-ci.org/monolith-php/event-dispatcher)
-# Command Bus 1.0
+# Command Bus 1.1
 
 [![Build Status](https://travis-ci.org/monolith-php/command-bus.svg?branch=master)](https://travis-ci.org/monolith-php/command-bus)
-# Web Routing 19.0
+# Web Routing 19.1
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 13.0
+# Web Sessions 13.1
 
 not yet secured, consider hazardous
-# Twig HTML Templating 4.0
+# Twig HTML Templating 4.2
 
 
 # Web Forms 1.0

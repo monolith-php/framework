@@ -20,7 +20,7 @@
     "monolith/error-handling": "^4",
     "monolith/http": "^10",
     "monolith/relational-database": "^6",
-    "monolith/message-serialization": "^1",
+    "monolith/message-serialization": "^2",
     "monolith/event-dispatch": "^1",
     "monolith/command-bus": "^2",
     "monolith/web-routing": "^20",

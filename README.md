@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.99**
+**version: 5.100**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -52,7 +52,7 @@ basic di container
 # Relational Database 6.2
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Message Serialization 1.1
+# Message Serialization 2.0
 
 [![Build Status](https://travis-ci.org/monolith-php/message-serialization.svg?branch=master)](https://travis-ci.org/monolith-php/message-serialization)
 # Event Dispatcher 1.2

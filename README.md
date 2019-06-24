@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.100**
+**version: 5.101**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -55,7 +55,7 @@ basic di container
 # Message Serialization 2.0
 
 [![Build Status](https://travis-ci.org/monolith-php/message-serialization.svg?branch=master)](https://travis-ci.org/monolith-php/message-serialization)
-# Event Dispatcher 1.2
+# Event Dispatcher 2.0
 
 [![Build Status](https://travis-ci.org/monolith-php/event-dispatcher.svg?branch=master)](https://travis-ci.org/monolith-php/event-dispatcher)
 # Command Bus 2.0

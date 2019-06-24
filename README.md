@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.98**
+**version: 5.99**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,30 +26,30 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 5.2
+# Collections 6.1
 
 some basic info about collections
 
-# Component Bootstrapping 5.1
+# Component Bootstrapping 6.0
 
 information
 
-# Configuration 3.1
+# Configuration 4.0
 
 uses php dot env
 
-# Dependency Injection 6.1
+# Dependency Injection 7.1
 
 basic di container
 
-# Error Handling 3.1
+# Error Handling 4.0
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 9.1
+# HTTP 10.0
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 6.1
+# Relational Database 6.2
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
 # Message Serialization 1.1
@@ -58,16 +58,16 @@ basic di container
 # Event Dispatcher 1.2
 
 [![Build Status](https://travis-ci.org/monolith-php/event-dispatcher.svg?branch=master)](https://travis-ci.org/monolith-php/event-dispatcher)
-# Command Bus 1.1
+# Command Bus 2.0
 
 [![Build Status](https://travis-ci.org/monolith-php/command-bus.svg?branch=master)](https://travis-ci.org/monolith-php/command-bus)
-# Web Routing 19.1
+# Web Routing 20.0
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 13.1
+# Web Sessions 14.0
 
 not yet secured, consider hazardous
-# Twig HTML Templating 4.3
+# Twig HTML Templating 4.4
 
 

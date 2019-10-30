@@ -22,7 +22,6 @@
     "monolith/relational-database": "^6",
     "monolith/message-serialization": "^2",
     "monolith/event-dispatch": "^2",
-    "monolith/command-bus": "^2",
     "monolith/web-routing": "^20",
     "monolith/web-sessions": "^14",
     "monolith/twig-html-templating": "^4"

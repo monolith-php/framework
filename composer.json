@@ -12,19 +12,20 @@
     }
   ],
   "require": {
-    "php": "^7.2",
-    "monolith/collections": "^6",
-    "monolith/component-bootstrapping": "^6",
-    "monolith/configuration": "^4",
-    "monolith/dependency-injection": "^7",
-    "monolith/error-handling": "^4",
-    "monolith/http": "^10",
-    "monolith/relational-database": "^6",
-    "monolith/message-serialization": "^2",
-    "monolith/event-dispatch": "^2",
-    "monolith/web-routing": "^20",
-    "monolith/web-sessions": "^14",
-    "monolith/twig-html-templating": "^4"
+    "php": "^7.4",
+    "monolith/collections": "^8",
+    "monolith/component-bootstrapping": "^7",
+    "monolith/configuration": "^6",
+    "monolith/dependency-injection": "^8",
+    "monolith/error-handling": "^5",
+    "monolith/http": "^11",
+    "monolith/relational-database": "^",
+    "monolith/message-serialization": "^",
+    "monolith/event-dispatch": "^",
+    "monolith/command-bus": "^",
+    "monolith/web-routing": "^22",
+    "monolith/web-sessions": "^15",
+    "monolith/twig-html-templating": "^5"
   },
   "config": {
     "sort-packages": true

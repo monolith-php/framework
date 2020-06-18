@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.101**
+**version: 5.104**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,48 +26,42 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 6.1
+# Collections 8.1
 
 some basic info about collections
 
-# Component Bootstrapping 6.0
+# Component Bootstrapping 7
 
 information
 
-# Configuration 4.0
+# Configuration 6
 
-uses php dot env
+drop php dot env (uses global state so can't be used for multiple environments simultaneously in a runtime)
+add new configuration loader / reader
+keep env file conventions
 
-# Dependency Injection 7.1
+# Dependency Injection 8
 
 basic di container
 
-# Error Handling 4.0
+# Error Handling 5
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 10.0
+# HTTP 11.1
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 6.2
 
-[![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Message Serialization 2.0
 
-[![Build Status](https://travis-ci.org/monolith-php/message-serialization.svg?branch=master)](https://travis-ci.org/monolith-php/message-serialization)
-# Event Dispatcher 2.0
 
-[![Build Status](https://travis-ci.org/monolith-php/event-dispatcher.svg?branch=master)](https://travis-ci.org/monolith-php/event-dispatcher)
-# Command Bus 2.0
 
-[![Build Status](https://travis-ci.org/monolith-php/command-bus.svg?branch=master)](https://travis-ci.org/monolith-php/command-bus)
-# Web Routing 20.0
+# Web Routing 22
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 14.0
+# Web Sessions 15
 
 not yet secured, consider hazardous
-# Twig HTML Templating 4.4
+# Twig HTML Templating 5
 
 

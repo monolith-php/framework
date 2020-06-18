@@ -19,10 +19,7 @@
     "monolith/dependency-injection": "^8",
     "monolith/error-handling": "^5",
     "monolith/http": "^11",
-    "monolith/relational-database": "^",
-    "monolith/message-serialization": "^",
-    "monolith/event-dispatch": "^",
-    "monolith/command-bus": "^",
+    "monolith/relational-database": "^7",
     "monolith/web-routing": "^22",
     "monolith/web-sessions": "^15",
     "monolith/twig-html-templating": "^5"

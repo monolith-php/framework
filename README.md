@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.107**
+**version: 5.108**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,41 +26,41 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 8.1
+# Collections 8.2
 
 some basic info about collections
 
-# Component Bootstrapping 7
+# Component Bootstrapping 7.1
 
 information
 
-# Configuration 6
+# Configuration 6.1
 
 drop php dot env (uses global state so can't be used for multiple environments simultaneously in a runtime)
 add new configuration loader / reader
 keep env file conventions
 
-# Dependency Injection 8
+# Dependency Injection 8.1
 
 basic di container
 
-# Error Handling 5
+# Error Handling 5.1
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 11.3
+# HTTP 11.4
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 7
+# Relational Database 7.1
 
 [![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Web Routing 22
+# Web Routing 22.1
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 15
+# Web Sessions 15.1
 
 not yet secured, consider hazardous
-# Twig HTML Templating 5
+# Twig HTML Templating 5.1
 
 

@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.108**
+**version: 5.109**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,41 +26,50 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 8.2
+# Collections 8.7
 
 some basic info about collections
 
-# Component Bootstrapping 7.1
+# Component Bootstrapping 7.4
 
 information
 
-# Configuration 6.1
+# Configuration 6.11
 
-drop php dot env (uses global state so can't be used for multiple environments simultaneously in a runtime)
-add new configuration loader / reader
-keep env file conventions
+goals:
 
-# Dependency Injection 8.1
+- drop php dot env (uses global state so can't be used for multiple environments simultaneously in a runtime)
+- add new configuration loader / reader
+- keep env file conventions
+
+warning:
+
+config can be used in component boostrapping bind() methods but only within bound closures. the configuration tool needs the bootstrap bind() phase to set itself up.
+
+# Dependency Injection 8.4
 
 basic di container
 
-# Error Handling 5.1
+# Error Handling 5.4
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 11.4
+# HTTP 11.7
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 7.1
+# Relational Database 7.9
 
-[![Build Status](https://travis-ci.org/monolith-php/relational-database.svg?branch=master)](https://travis-ci.org/monolith-php/relational-database)
-# Web Routing 22.1
+
+# Web Routing 22.4
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
 
-# Web Sessions 15.1
+## Todo
 
-not yet secured, consider hazardous
-# Twig HTML Templating 5.1
+under prefix('admin', get('/', ...)) the front-slash doesn't work
+# Web Sessions 15.6
+
+not verified secure, consider hazardous
+# Twig HTML Templating 5.5
 
 

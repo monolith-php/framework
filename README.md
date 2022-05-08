@@ -1,6 +1,6 @@
 # Monolith PHP Web Development Framework
 
-**version: 5.109**
+**version: 6.1**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
 
@@ -26,15 +26,15 @@ This isn't a tool that should be adopted. It's a design project to experiment wi
 
 1. extract [the application skeleton](https://github.com/monolith-php/application-skeleton/archive/master.zip) to a new folder
 2. run composer install
-# Collections 8.7
+# Collections 9.3
 
-some basic info about collections
+some basic info about collections, they're fancy
 
-# Component Bootstrapping 7.4
+# Component Bootstrapping 8.0
 
 information
 
-# Configuration 6.11
+# Configuration 7.1
 
 goals:
 
@@ -46,30 +46,39 @@ warning:
 
 config can be used in component boostrapping bind() methods but only within bound closures. the configuration tool needs the bootstrap bind() phase to set itself up.
 
-# Dependency Injection 8.4
+# Dependency Injection 9.4
 
 basic di container
 
-# Error Handling 5.4
+# Error Handling 6.0
 
 [![Build Status](https://travis-ci.org/monolith-php/error-handling.svg?branch=master)](https://travis-ci.org/monolith-php/error-handling)
 
-# HTTP 11.7
+# HTTP 12.1
 
 [![Build Status](https://travis-ci.org/monolith-php/http.svg?branch=master)](https://travis-ci.org/monolith-php/http)
-# Relational Database 7.9
+# Relational Database 8.1
 
 
-# Web Routing 22.4
+# Messaging 0.1
+
+[![Build Status](https://travis-ci.org/monolith-php/command-bus.svg?branch=master)](https://travis-ci.org/monolith-php/command-bus)
+# Web Routing 23.2
 
 [![Build Status](https://travis-ci.org/monolith-php/web-routing.svg?branch=master)](https://travis-ci.org/monolith-php/web-routing)
+
+##
+
+1. make collections final
+2. fix these collections
+3. move tests to phpunit
 
 ## Todo
 
 under prefix('admin', get('/', ...)) the front-slash doesn't work
-# Web Sessions 15.6
+# Web Sessions 16.0
 
 not verified secure, consider hazardous
-# Twig HTML Templating 5.5
+# Twig HTML Templating 6.0
 
 

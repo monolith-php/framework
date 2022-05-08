@@ -6,28 +6,19 @@
     "framework"
   ],
   "require": {
-    "php": ">=8",
+    "php": ">=7.4",
     "monolith/collections": "^9",
-    "monolith/dependency-injection": "^9",
     "monolith/component-bootstrapping": "^8",
     "monolith/configuration": "^7",
+    "monolith/dependency-injection": "^9",
+    "monolith/error-handling": "^6",
     "monolith/http": "^12",
+    "monolith/relational-database": "^8",
+    "monolith/messaging": "^0",
     "monolith/web-routing": "^23",
     "monolith/web-sessions": "^16",
-    "monolith/relational-database": "^8",
-    "monolith/twig-html-templating": "^6",
-    "monolith/error-handling": "^6"
+    "monolith/twig-html-templating": "^6"
   },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://packages.humanmusic.eu",
-      "canonical": false,
-      "only": [
-        "monolith/*"
-      ]
-    }
-  ],
   "config": {
     "sort-packages": true
   },

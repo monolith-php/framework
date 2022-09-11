@@ -1,5 +1,9 @@
 # Monolith PHP Web Development Framework
 
+**version: 7.0**
+
+- PHP 8.1 mandatory 
+
 **version: 6.1**
 
 This isn't a tool that should be adopted. It's a design project to experiment with ideas.
